@@ -21,7 +21,7 @@
 
 ---
 
-![Insight-IQ Social Preview](assets/ada-social-preview.png)
+![Insight-IQ Preview](assets/screenshots/01_hero_and_upload.png)
 
 ---
 
@@ -60,19 +60,6 @@ Tested across diverse business archetypes — handles SaaS recurring revenue dro
 
 ![Ecommerce Multi-Domain Insights](assets/screenshots/05_ecommerce_insights.png)
 
----
-
-### 6. Dynamic Drilldowns & Plain-English NLQ (Ask ADA)
-
-<p align="center">
-  <img src="assets/readme/ask-ada.gif" width="49%" alt="Ask plain-English question with formula evidence" />
-  <img src="assets/readme/drilldown.gif" width="49%" alt="Drill into segment and regroup dimensions" />
-</p>
-
-<p align="center">
-  <img src="assets/readme/anomaly-forecast.png" width="49%" alt="Anomaly markers and guarded forecast" />
-  <img src="assets/readme/evidence-ledger.png" width="49%" alt="Evidence ledger and calculation formulas" />
-</p>
 
 ---
 
