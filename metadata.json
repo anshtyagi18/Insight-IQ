@@ -1,0 +1,6 @@
+{
+  "name": "INSIGHTiQ",
+  "description": "Zero-configuration business intelligence for CSV and Excel data with traceable calculations, anomaly detection, forecasting, and plain-English Q&A.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
